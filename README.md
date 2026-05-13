@@ -69,6 +69,7 @@ In January 2026, Postman acquired Fern to strengthen API documentation and SDK g
 - [openapi-to-postman](https://github.com/postmanlabs/openapi-to-postman) - Official tool to convert OpenAPI 3.x specs to Postman Collections.
 - [postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - Convert Postman Collections to OpenAPI 3.0 spec.
 - [postman2openapi](https://github.com/kevinswiber/postman2openapi) - CLI and web tool to convert Postman 2.x collections to OpenAPI 3.0.
+- [postman2pytest](https://github.com/golikovichev/postman2pytest) - Convert Postman Collection v2.1 JSON into runnable pytest test suites in one command.
 - [specmatic](https://specmatic.io) - Contract testing tool that works with OpenAPI specs and Postman collections.
 
 ## Newman Reporters
