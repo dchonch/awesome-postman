@@ -1,12 +1,10 @@
-# Awesome Postman [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Postman
 
-> A curated list of resources for [Postman](https://www.postman.com) — the API platform for building and using APIs.
->
-> Inspired by [@sindresorhus](https://github.com/sindresorhus)'s [awesome](https://github.com/sindresorhus/awesome).
->
-> Your [contributions](https://github.com/dawitnida/awesome-postman/blob/master/.github/CONTRIBUTING.md) are welcome!
+<div align="center"><img src="https://awesome.re/badge-flat.svg" /></div>
 
----
+[Postman](https://www.postman.com) is the API platform for building and using APIs.
+
+_Please read the [contributing guidelines](contributing.md) before contributing._
 
 ## Contents
 
@@ -23,8 +21,6 @@
 - [CI/CD Integrations](#cicd-integrations)
 - [IDE Extensions](#ide-extensions)
 - [Community](#community)
-
----
 
 ## Official Resources
 
