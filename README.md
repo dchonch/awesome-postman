@@ -29,6 +29,7 @@ _Please read the [contributing guidelines](contributing.md) before contributing.
 ## Collections & Converters
 
 - [openapi-to-postman](https://github.com/postmanlabs/openapi-to-postman) - Convert OpenAPI specs to Postman Collections.
+- [http2postman](https://github.com/salitaba/http2postman) - Convert JetBrains HTTP Client / VS Code REST Client `.http` files into a Postman Collection v2.1 JSON.
 - [postman2pytest](https://github.com/golikovichev/postman2pytest) - Convert Postman Collection v2.1 JSON into runnable pytest test suites in one command.
 - [postman-collection](https://github.com/postmanlabs/postman-collection) - JavaScript SDK for working with collections programmatically.
 - [All-Things-Postman](https://github.com/DannyDainton/All-Things-Postman) - Extensive examples and scripts.
